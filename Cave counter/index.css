@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    font-size: medium;
+}
+
+.suppression{
+    float: left;
+    height: 275;
+    width: 20%;
+    margin-right: 4%;
+    margin-left: 12%;
+    margin-top: 14%;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-bottom: 5%;
+    background-color: red;
+}
+
+.nbr{
+    float: left;
+    height: 150px;
+    width: 20%;
+    margin-top: 14%;
+    margin-right: 4%;
+    margin-left: 3%;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 5%;
+}
+
+.ajout{
+    float: left;
+    margin-top: 14%;
+    height: 275px;
+    margin-left: 4%;
+    width: 20%;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: green;
+}
+
+.text{
+    padding-top: 20%;
+    font-size: 20px;
+}
+
+.type{
+    font-size: medium;
+}
